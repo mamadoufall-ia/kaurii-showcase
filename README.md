@@ -109,7 +109,11 @@ Prochaines étapes : brancher un agrégateur de mobile money réel, l'envoi d'e-
 
 ## Contact
 
-**Mamadou FALL** · [github.com/mamadoufall-ia](https://github.com/mamadoufall-ia)
+**Mamadou FALL** · Staff Engineer @ Cegid · AI Platform & Developer Enablement
+
+- 🌐 [mamadoufall.com](https://mamadoufall.com/)
+- 💼 [linkedin.com/in/mamadoufallofficiel](https://www.linkedin.com/in/mamadoufallofficiel)
+- 🐙 [github.com/mamadoufall-ia](https://github.com/mamadoufall-ia)
 
 Pour une démonstration ou un accès en lecture au code source, contactez-moi.
 
